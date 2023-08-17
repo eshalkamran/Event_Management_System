@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Eshal_Personal_Project.Event_Management_System.EventManagementSystemApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.188 s - in Eshal_Personal_Project.Event_Management_System.EventManagementSystemApplicationTests
