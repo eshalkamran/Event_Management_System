@@ -37,7 +37,6 @@
 			<scope>test</scope>
 		</dependency>
 
-		<!-- Add the new dependencies -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-security</artifactId>
